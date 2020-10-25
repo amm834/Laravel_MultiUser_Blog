@@ -20,10 +20,10 @@ If you use this project you should have following skills.
 # Frontend
 
 <li>Bootstrap</li>
-<li>PHP & SQL  </li>
 
 # Backend
 
+<li>PHP & SQL  </li>
 <li>Laravel (PHP Framwork)</li>
 
 # Others
